@@ -1,0 +1,22 @@
+{
+  "due": "2025-12-01T10:00:00Z",
+  "callback_properties": {},
+  "client_requirements": {},
+  "comment": "Prueba de creación de claim",
+  "items": [],
+  "route_points": [
+    {
+      "address": {
+        "formatted_address": "Calle Falsa 123, La Paz"
+      },
+      "type": "source"
+    },
+    {
+      "address": {
+        "formatted_address": "Av. Siempre Viva 742, La Paz"
+      },
+      "type": "destination"
+    }
+  ],
+  "auto_accept": false
+}

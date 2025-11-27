@@ -1,0 +1,13 @@
+{
+  "name": "yango-api",
+  "version": "1.0.0",
+  "description": "Docs y utilidades para Yango Bolivia API",
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "validate": "npx @apidevtools/swagger-cli validate openapi.yaml",
+    "redoc": "npx redoc-cli serve openapi.yaml"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {}
+}
